@@ -1,0 +1,14 @@
+{
+  "name": "seer-bot",
+  "version": "1.0.0",
+  "description": "Seer Bot",
+  "main": "seer-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommi Laukkanen (https://github.com/tlaukkanen)",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.88.0"
+  }
+}
