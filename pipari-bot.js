@@ -184,4 +184,4 @@ http.createServer((req, res) => {
 }).listen(port);
 
 // Console will print the message
-console.log(`Seer-bot running at http://127.0.0.1:${port}/`);
+console.log(`Pipari-bot running at http://127.0.0.1:${port}/`);
