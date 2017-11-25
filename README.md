@@ -2,7 +2,7 @@
 
 This is a bot created to fight in [Battle³](https://github.com/leomelin/battlecube) during [Web Dev & Sausages Micro Christmas Hackathon 2017](https://ssl.eventilla.com/event/x5y9E). 
 
-Bot was coded based on the [dumb.bot.js](https://github.com/leomelin/battlecube/blob/master/example_bots/dumb-bot.js) less than three hours on Nov 24th between 6pm and 9pm.
+Bot code was based on the [dumb-bot.js](https://github.com/leomelin/battlecube/blob/master/example_bots/dumb-bot.js) and improved in less than three hours on Nov 24th between 6pm and 9pm.
 
 # Ranking in Final Battle
 
