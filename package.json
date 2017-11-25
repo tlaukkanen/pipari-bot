@@ -1,8 +1,8 @@
 {
-  "name": "seer-bot",
+  "name": "pipari-bot",
   "version": "1.0.0",
-  "description": "Seer Bot",
-  "main": "seer-bot.js",
+  "description": "Pipari Bot for the Web Dev & Sausages Micro Christmas Hackathon 2017 battle",
+  "main": "pipari-bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
