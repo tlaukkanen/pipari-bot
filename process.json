@@ -1,8 +1,8 @@
 {
     "apps" : [
         {
-            "name" : "seer-bot",
-            "script" : "seer-bot.js",
+            "name" : "pipari-bot",
+            "script" : "pipari-bot.js",
             "env" : {},
             "args": ["8090"]
         }
