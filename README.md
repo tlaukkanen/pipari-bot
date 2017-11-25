@@ -7,3 +7,6 @@ Bot code was based on the [dumb-bot.js](https://github.com/leomelin/battlecube/b
 # Ranking in Final Battle
 
 Pipari Bot made it cleary to the finals causing havoc in semi-finals and many times resulting in top position. In the final battle between ~8 bots it's final 2nd position was nice achievement especially when the winner was based on a bot that was mostly coded beforehand ;)
+
+![](webdev_sausage_twitter.png)
+ref. [https://twitter.com/webdevnsausages/status/934165510069071872](https://twitter.com/webdevnsausages/status/934165510069071872)
