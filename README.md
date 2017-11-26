@@ -11,3 +11,9 @@ Pipari Bot made it cleary to the finals causing havoc in semi-finals and many ti
 ![](webdev_sausage_twitter.png)
 
 ref. [https://twitter.com/webdevnsausages/status/934165510069071872](https://twitter.com/webdevnsausages/status/934165510069071872)
+
+# Game Example
+
+Game between Pipari and example bots:
+
+![](pipari-game.gif)
